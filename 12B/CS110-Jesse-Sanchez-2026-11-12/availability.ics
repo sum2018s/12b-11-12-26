@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CS110//Development Road//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:159f1018-294a-4eb5-8dde-6b9be2d4d7bb@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261110T130000
+DTEND;TZID=America/Los_Angeles:20261110T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:64ad709e-7a9c-4f2e-aebb-14d5c7361af0@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261112T130000
+DTEND;TZID=America/Los_Angeles:20261112T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1d5f39-ee2a-4bde-b82f-f99bde9f89ef@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261117T130000
+DTEND;TZID=America/Los_Angeles:20261117T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:aede4e8a-f8f2-4ad9-a527-929e7a0e0856@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261119T130000
+DTEND;TZID=America/Los_Angeles:20261119T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:05c1e761-bd93-4522-9fba-c979d86365ee@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261126T130000
+DTEND;TZID=America/Los_Angeles:20261126T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:81764606-1029-481a-9fb8-89de9448987d@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261124T130000
+DTEND;TZID=America/Los_Angeles:20261124T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:4854c0f5-4603-4965-9374-f2d6aa50595c@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261201T130000
+DTEND;TZID=America/Los_Angeles:20261201T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:738fb4d1-40b6-414c-a085-58100f255d53@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261203T130000
+DTEND;TZID=America/Los_Angeles:20261203T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:a230536f-2ca7-4dc5-bd20-d8434a88b0c6@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261210T130000
+DTEND;TZID=America/Los_Angeles:20261210T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae311167-d098-4988-b71a-0ec0f2d96365@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261217T130000
+DTEND;TZID=America/Los_Angeles:20261217T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:a155b0ef-1dbc-43de-b1f5-b39bdf0214c6@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261208T130000
+DTEND;TZID=America/Los_Angeles:20261208T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+BEGIN:VEVENT
+UID:30fee2b1-aae0-4c76-bd0f-0b2ece7cbbb0@cs110.addp2p.com
+DTSTAMP:20261112T231748Z
+DTSTART;TZID=America/Los_Angeles:20261215T130000
+DTEND;TZID=America/Los_Angeles:20261215T170000
+SUMMARY:CS110 project availability
+DESCRIPTION:I will be available either in the classroom or even by shooting me a message on discord.
+END:VEVENT
+END:VCALENDAR
